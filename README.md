@@ -50,5 +50,28 @@ As a manager I can:
 ## Contributors
 
 - David Guijosa Infante (https://github.com/Davidzent)
-- Ben Parser (https://github.com/Ben-Paser)
+- Ben Paser (https://github.com/Ben-Paser)
+
+## Technologies used
+
+- Java: application development
+- Prostgres: Database 
+- JDBC: Java Database connection
+- Javalin: HTTP handler
+- HTML: webpage development
+- CSS: webpage style/design
+- Javascript: webpage logic 
+- GCP compute engine: cloud host VM for application
+- Docker: Container
+- Jenkins: Continuous integration framework
+
+## getting started
+
+- clone the git repository once you start the javalin server you then should be able to login into localhost:8080
+
+
+## usage
+- once you are on the site you will be able to register as a user and be able to access the employee portal to where you can create your riembursments
+- if you want to simulate a manager then log in with  username: benadmin password:12345 from there you should be able to access the manager portal and have manager functionality 
+
 
