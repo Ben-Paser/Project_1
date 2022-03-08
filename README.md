@@ -32,7 +32,7 @@ As a manager I can:
 -   View all employees
 
 
-# Contributors
+## Contributors
 
 - David Guijosa Infante 
 - Ben Parser
