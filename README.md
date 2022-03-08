@@ -49,6 +49,6 @@ As a manager I can:
 
 ## Contributors
 
-- David Guijosa Infante 
-- Ben Parser
+- David Guijosa Infante (https://github.com/Davidzent)
+- Ben Parser (https://github.com/Ben-Paser)
 
