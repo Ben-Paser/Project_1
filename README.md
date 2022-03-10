@@ -56,7 +56,7 @@ As a manager I can:
 
 ## Contributors
 
-- David Guijosa Infante (https://github.com/Davidzent)
-- Ben Paser (https://github.com/Ben-Paser)
+- [David Guijosa Infante] (https://github.com/Davidzent)
+- [Ben Paser] (https://github.com/Ben-Paser)
 
 
